@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ssm_leaseOfHouses:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ssm_leaseOfHouses_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ssm_leaseOfHouses/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ssm_leaseOfHouses" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
